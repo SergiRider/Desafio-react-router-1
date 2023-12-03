@@ -1,0 +1,20 @@
+.encabezado{
+  margin: 2rem;
+text-align: center;
+}
+.not-found{
+  display: flex;
+  justify-content: center;
+}
+.img-not-found{
+  width: 100vw;
+  height:100vh;
+}
+.portada{
+  margin: 3rem;
+text-align: center;
+}
+.img-portada, img{
+  margin: 3rem;
+
+}
